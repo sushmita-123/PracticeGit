@@ -5,7 +5,7 @@ public class Test
 	{
 		System.out.println("GitDemo");
 		Test t=new Test();
-		System.out.println("My name is sushmita");
+		System.out.println("My name is Rutika");
 	}
 
 }  
